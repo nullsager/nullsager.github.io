@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on Hugo ʕ•ᴥ•ʔ Bear Blog</title>
+    <title>Markdown on nullsagerBlog</title>
     <link>https://nullsager.github.io/blog/markdown/</link>
-    <description>Recent content in Markdown on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
+    <description>Recent content in Markdown on nullsagerBlog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <copyright>Copyright © 2024, nullsager.</copyright>
     <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nullsager.github.io/blog/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
