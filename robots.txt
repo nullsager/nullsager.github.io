@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://nullsager.github.io/sitemap.xml
